@@ -1,0 +1,1052 @@
+[
+  {
+    "year": 1750,
+    "London_so2_annual_Tg": 0.0123052583,
+    "Paris_so2_annual_Tg": 0.0045960112,
+    "London_std_annual": 0.0030543107,
+    "Paris_std_annual": 0.0014696225
+  },
+  {
+    "year": 1751,
+    "London_so2_annual_Tg": 0.0124372021,
+    "Paris_so2_annual_Tg": 0.0045995852,
+    "London_std_annual": 0.0030739093,
+    "Paris_std_annual": 0.0014693982
+  },
+  {
+    "year": 1752,
+    "London_so2_annual_Tg": 0.0125325397,
+    "Paris_so2_annual_Tg": 0.0046031449,
+    "London_std_annual": 0.0030884193,
+    "Paris_std_annual": 0.0014691671
+  },
+  {
+    "year": 1753,
+    "London_so2_annual_Tg": 0.0126075004,
+    "Paris_so2_annual_Tg": 0.004606691,
+    "London_std_annual": 0.0030994855,
+    "Paris_std_annual": 0.0014689296
+  },
+  {
+    "year": 1754,
+    "London_so2_annual_Tg": 0.0126946277,
+    "Paris_so2_annual_Tg": 0.0046102256,
+    "London_std_annual": 0.0031127465,
+    "Paris_std_annual": 0.0014686866
+  },
+  {
+    "year": 1755,
+    "London_so2_annual_Tg": 0.0127166372,
+    "Paris_so2_annual_Tg": 0.0046137486,
+    "London_std_annual": 0.0031162513,
+    "Paris_std_annual": 0.0014684386
+  },
+  {
+    "year": 1756,
+    "London_so2_annual_Tg": 0.0135905442,
+    "Paris_so2_annual_Tg": 0.0046172635,
+    "London_std_annual": 0.003314996,
+    "Paris_std_annual": 0.0014681861
+  },
+  {
+    "year": 1757,
+    "London_so2_annual_Tg": 0.0136773531,
+    "Paris_so2_annual_Tg": 0.0046207691,
+    "London_std_annual": 0.0033281158,
+    "Paris_std_annual": 0.0014679296
+  },
+  {
+    "year": 1758,
+    "London_so2_annual_Tg": 0.0135119565,
+    "Paris_so2_annual_Tg": 0.0046242681,
+    "London_std_annual": 0.0033034762,
+    "Paris_std_annual": 0.0014676701
+  },
+  {
+    "year": 1759,
+    "London_so2_annual_Tg": 0.0136636317,
+    "Paris_so2_annual_Tg": 0.0046277611,
+    "London_std_annual": 0.0033262369,
+    "Paris_std_annual": 0.0014674076
+  },
+  {
+    "year": 1760,
+    "London_so2_annual_Tg": 0.0135915322,
+    "Paris_so2_annual_Tg": 0.0046312492,
+    "London_std_annual": 0.0033150997,
+    "Paris_std_annual": 0.0014671433
+  },
+  {
+    "year": 1761,
+    "London_so2_annual_Tg": 0.0147537815,
+    "Paris_so2_annual_Tg": 0.0046347329,
+    "London_std_annual": 0.0035894794,
+    "Paris_std_annual": 0.0014668766
+  },
+  {
+    "year": 1762,
+    "London_so2_annual_Tg": 0.0146854447,
+    "Paris_so2_annual_Tg": 0.0046382045,
+    "London_std_annual": 0.00357918,
+    "Paris_std_annual": 0.0014666046
+  },
+  {
+    "year": 1763,
+    "London_so2_annual_Tg": 0.0148365762,
+    "Paris_so2_annual_Tg": 0.0046416565,
+    "London_std_annual": 0.0036016794,
+    "Paris_std_annual": 0.0014663233
+  },
+  {
+    "year": 1764,
+    "London_so2_annual_Tg": 0.015133991,
+    "Paris_so2_annual_Tg": 0.0046450822,
+    "London_std_annual": 0.003646042,
+    "Paris_std_annual": 0.0014660291
+  },
+  {
+    "year": 1765,
+    "London_so2_annual_Tg": 0.0147562849,
+    "Paris_so2_annual_Tg": 0.0046484729,
+    "London_std_annual": 0.0035893435,
+    "Paris_std_annual": 0.0014657181
+  },
+  {
+    "year": 1766,
+    "London_so2_annual_Tg": 0.0165352421,
+    "Paris_so2_annual_Tg": 0.0046518209,
+    "London_std_annual": 0.0039885767,
+    "Paris_std_annual": 0.0014653867
+  },
+  {
+    "year": 1767,
+    "London_so2_annual_Tg": 0.0163115899,
+    "Paris_so2_annual_Tg": 0.0046551175,
+    "London_std_annual": 0.0039547847,
+    "Paris_std_annual": 0.001465031
+  },
+  {
+    "year": 1768,
+    "London_so2_annual_Tg": 0.0167466095,
+    "Paris_so2_annual_Tg": 0.0046583561,
+    "London_std_annual": 0.0040195464,
+    "Paris_std_annual": 0.0014646475
+  },
+  {
+    "year": 1769,
+    "London_so2_annual_Tg": 0.0169945097,
+    "Paris_so2_annual_Tg": 0.0046615285,
+    "London_std_annual": 0.0040562926,
+    "Paris_std_annual": 0.0014642321
+  },
+  {
+    "year": 1770,
+    "London_so2_annual_Tg": 0.0173399381,
+    "Paris_so2_annual_Tg": 0.0046646276,
+    "London_std_annual": 0.0041076375,
+    "Paris_std_annual": 0.0014637816
+  },
+  {
+    "year": 1771,
+    "London_so2_annual_Tg": 0.0165550622,
+    "Paris_so2_annual_Tg": 0.0046676518,
+    "London_std_annual": 0.0041295302,
+    "Paris_std_annual": 0.001463295
+  },
+  {
+    "year": 1772,
+    "London_so2_annual_Tg": 0.0165667004,
+    "Paris_so2_annual_Tg": 0.0046706245,
+    "London_std_annual": 0.004130757,
+    "Paris_std_annual": 0.0014627843
+  },
+  {
+    "year": 1773,
+    "London_so2_annual_Tg": 0.0165619256,
+    "Paris_so2_annual_Tg": 0.0046735765,
+    "London_std_annual": 0.0041294842,
+    "Paris_std_annual": 0.0014622637
+  },
+  {
+    "year": 1774,
+    "London_so2_annual_Tg": 0.0165894877,
+    "Paris_so2_annual_Tg": 0.0046765394,
+    "London_std_annual": 0.0041329837,
+    "Paris_std_annual": 0.0014617475
+  },
+  {
+    "year": 1775,
+    "London_so2_annual_Tg": 0.0165924112,
+    "Paris_so2_annual_Tg": 0.0046795405,
+    "London_std_annual": 0.0041327272,
+    "Paris_std_annual": 0.0014612508
+  },
+  {
+    "year": 1776,
+    "London_so2_annual_Tg": 0.018146598,
+    "Paris_so2_annual_Tg": 0.0046826118,
+    "London_std_annual": 0.0045112731,
+    "Paris_std_annual": 0.0014607874
+  },
+  {
+    "year": 1777,
+    "London_so2_annual_Tg": 0.0181403341,
+    "Paris_so2_annual_Tg": 0.0046857803,
+    "London_std_annual": 0.0045093158,
+    "Paris_std_annual": 0.0014603719
+  },
+  {
+    "year": 1778,
+    "London_so2_annual_Tg": 0.0181092708,
+    "Paris_so2_annual_Tg": 0.0046890786,
+    "London_std_annual": 0.0045035254,
+    "Paris_std_annual": 0.001460018
+  },
+  {
+    "year": 1779,
+    "London_so2_annual_Tg": 0.0181672146,
+    "Paris_so2_annual_Tg": 0.0046925333,
+    "London_std_annual": 0.0045108992,
+    "Paris_std_annual": 0.00145974
+  },
+  {
+    "year": 1780,
+    "London_so2_annual_Tg": 0.0180985889,
+    "Paris_so2_annual_Tg": 0.0046961751,
+    "London_std_annual": 0.0044995803,
+    "Paris_std_annual": 0.001459552
+  },
+  {
+    "year": 1781,
+    "London_so2_annual_Tg": 0.0201304935,
+    "Paris_so2_annual_Tg": 0.0047000089,
+    "London_std_annual": 0.0049871784,
+    "Paris_std_annual": 0.0014594566
+  },
+  {
+    "year": 1782,
+    "London_so2_annual_Tg": 0.0201213991,
+    "Paris_so2_annual_Tg": 0.004703945,
+    "London_std_annual": 0.0049838971,
+    "Paris_std_annual": 0.0014594107
+  },
+  {
+    "year": 1783,
+    "London_so2_annual_Tg": 0.0201975086,
+    "Paris_so2_annual_Tg": 0.0047078729,
+    "London_std_annual": 0.0049936812,
+    "Paris_std_annual": 0.0014593609
+  },
+  {
+    "year": 1784,
+    "London_so2_annual_Tg": 0.0202045438,
+    "Paris_so2_annual_Tg": 0.0047116816,
+    "London_std_annual": 0.0049927718,
+    "Paris_std_annual": 0.0014592539
+  },
+  {
+    "year": 1785,
+    "London_so2_annual_Tg": 0.0202077518,
+    "Paris_so2_annual_Tg": 0.0047152621,
+    "London_std_annual": 0.0049917481,
+    "Paris_std_annual": 0.0014590368
+  },
+  {
+    "year": 1786,
+    "London_so2_annual_Tg": 0.0227573427,
+    "Paris_so2_annual_Tg": 0.004718504,
+    "London_std_annual": 0.0056064801,
+    "Paris_std_annual": 0.0014586573
+  },
+  {
+    "year": 1787,
+    "London_so2_annual_Tg": 0.0227625113,
+    "Paris_so2_annual_Tg": 0.0047212995,
+    "London_std_annual": 0.0056058523,
+    "Paris_std_annual": 0.0014580632
+  },
+  {
+    "year": 1788,
+    "London_so2_annual_Tg": 0.022764623,
+    "Paris_so2_annual_Tg": 0.0047235408,
+    "London_std_annual": 0.0056047004,
+    "Paris_std_annual": 0.0014572025
+  },
+  {
+    "year": 1789,
+    "London_so2_annual_Tg": 0.022772004,
+    "Paris_so2_annual_Tg": 0.0047251196,
+    "London_std_annual": 0.0056050914,
+    "Paris_std_annual": 0.0014560229
+  },
+  {
+    "year": 1790,
+    "London_so2_annual_Tg": 0.0227808226,
+    "Paris_so2_annual_Tg": 0.0047259265,
+    "London_std_annual": 0.005606145,
+    "Paris_std_annual": 0.0014544726
+  },
+  {
+    "year": 1791,
+    "London_so2_annual_Tg": 0.0252574747,
+    "Paris_so2_annual_Tg": 0.0047259413,
+    "London_std_annual": 0.0062065638,
+    "Paris_std_annual": 0.0014525411
+  },
+  {
+    "year": 1792,
+    "London_so2_annual_Tg": 0.0252685932,
+    "Paris_so2_annual_Tg": 0.004725485,
+    "London_std_annual": 0.0062086557,
+    "Paris_std_annual": 0.0014503837
+  },
+  {
+    "year": 1793,
+    "London_so2_annual_Tg": 0.0252797008,
+    "Paris_so2_annual_Tg": 0.0047249697,
+    "London_std_annual": 0.0062107433,
+    "Paris_std_annual": 0.0014481978
+  },
+  {
+    "year": 1794,
+    "London_so2_annual_Tg": 0.0252858694,
+    "Paris_so2_annual_Tg": 0.0047248039,
+    "London_std_annual": 0.0062114347,
+    "Paris_std_annual": 0.001446181
+  },
+  {
+    "year": 1795,
+    "London_so2_annual_Tg": 0.0252943073,
+    "Paris_so2_annual_Tg": 0.0047254002,
+    "London_std_annual": 0.0062122934,
+    "Paris_std_annual": 0.0014445303
+  },
+  {
+    "year": 1796,
+    "London_so2_annual_Tg": 0.0263627268,
+    "Paris_so2_annual_Tg": 0.0047271662,
+    "London_std_annual": 0.006469726,
+    "Paris_std_annual": 0.0014434428
+  },
+  {
+    "year": 1797,
+    "London_so2_annual_Tg": 0.0276151298,
+    "Paris_so2_annual_Tg": 0.0047305082,
+    "London_std_annual": 0.0067694743,
+    "Paris_std_annual": 0.0014431132
+  },
+  {
+    "year": 1798,
+    "London_so2_annual_Tg": 0.0287083465,
+    "Paris_so2_annual_Tg": 0.0047358251,
+    "London_std_annual": 0.0070278391,
+    "Paris_std_annual": 0.0014437335
+  },
+  {
+    "year": 1799,
+    "London_so2_annual_Tg": 0.0300435573,
+    "Paris_so2_annual_Tg": 0.0047435053,
+    "London_std_annual": 0.0073515076,
+    "Paris_std_annual": 0.0014454905
+  },
+  {
+    "year": 1800,
+    "London_so2_annual_Tg": 0.0309586548,
+    "Paris_so2_annual_Tg": 0.0047539213,
+    "London_std_annual": 0.0075638376,
+    "Paris_std_annual": 0.0014485634
+  },
+  {
+    "year": 1801,
+    "London_so2_annual_Tg": 0.0310084769,
+    "Paris_so2_annual_Tg": 0.0047905855,
+    "London_std_annual": 0.0075657418,
+    "Paris_std_annual": 0.001460158
+  },
+  {
+    "year": 1802,
+    "London_so2_annual_Tg": 0.0311036855,
+    "Paris_so2_annual_Tg": 0.0058386159,
+    "London_std_annual": 0.0075786376,
+    "Paris_std_annual": 0.0017124444
+  },
+  {
+    "year": 1803,
+    "London_so2_annual_Tg": 0.0347416679,
+    "Paris_so2_annual_Tg": 0.0048716136,
+    "London_std_annual": 0.0084408765,
+    "Paris_std_annual": 0.0014870503
+  },
+  {
+    "year": 1804,
+    "London_so2_annual_Tg": 0.0348168977,
+    "Paris_so2_annual_Tg": 0.0058980471,
+    "London_std_annual": 0.008447105,
+    "Paris_std_annual": 0.0017357462
+  },
+  {
+    "year": 1805,
+    "London_so2_annual_Tg": 0.0360586046,
+    "Paris_so2_annual_Tg": 0.0049602043,
+    "London_std_annual": 0.0087266348,
+    "Paris_std_annual": 0.0015175801
+  },
+  {
+    "year": 1806,
+    "London_so2_annual_Tg": 0.0380088142,
+    "Paris_so2_annual_Tg": 0.0050063348,
+    "London_std_annual": 0.0091773694,
+    "Paris_std_annual": 0.001533728
+  },
+  {
+    "year": 1807,
+    "London_so2_annual_Tg": 0.0379520248,
+    "Paris_so2_annual_Tg": 0.005053171,
+    "London_std_annual": 0.0091544969,
+    "Paris_std_annual": 0.001550216
+  },
+  {
+    "year": 1808,
+    "London_so2_annual_Tg": 0.0379373723,
+    "Paris_so2_annual_Tg": 0.0051003404,
+    "London_std_annual": 0.0091425607,
+    "Paris_std_annual": 0.0015668645
+  },
+  {
+    "year": 1809,
+    "London_so2_annual_Tg": 0.0379321336,
+    "Paris_so2_annual_Tg": 0.0051474824,
+    "London_std_annual": 0.0091374822,
+    "Paris_std_annual": 0.0015835
+  },
+  {
+    "year": 1810,
+    "London_so2_annual_Tg": 0.0378583765,
+    "Paris_so2_annual_Tg": 0.0061606972,
+    "London_std_annual": 0.0091286441,
+    "Paris_std_annual": 0.0018317527
+  },
+  {
+    "year": 1811,
+    "London_so2_annual_Tg": 0.0404202609,
+    "Paris_so2_annual_Tg": 0.0061717036,
+    "London_std_annual": 0.0097482184,
+    "Paris_std_annual": 0.0018394414
+  },
+  {
+    "year": 1812,
+    "London_so2_annual_Tg": 0.0420444016,
+    "Paris_so2_annual_Tg": 0.0062890353,
+    "London_std_annual": 0.0101465842,
+    "Paris_std_annual": 0.0018725446
+  },
+  {
+    "year": 1813,
+    "London_so2_annual_Tg": 0.0426344675,
+    "Paris_so2_annual_Tg": 0.0062534281,
+    "London_std_annual": 0.0103033663,
+    "Paris_std_annual": 0.0018686706
+  },
+  {
+    "year": 1814,
+    "London_so2_annual_Tg": 0.0434740551,
+    "Paris_so2_annual_Tg": 0.0063144026,
+    "London_std_annual": 0.0105275974,
+    "Paris_std_annual": 0.001887934
+  },
+  {
+    "year": 1815,
+    "London_so2_annual_Tg": 0.0445051189,
+    "Paris_so2_annual_Tg": 0.0064690363,
+    "London_std_annual": 0.0107948983,
+    "Paris_std_annual": 0.0019297322
+  },
+  {
+    "year": 1816,
+    "London_so2_annual_Tg": 0.0473877876,
+    "Paris_so2_annual_Tg": 0.0065814916,
+    "London_std_annual": 0.0115091179,
+    "Paris_std_annual": 0.0019612967
+  },
+  {
+    "year": 1817,
+    "London_so2_annual_Tg": 0.0480156139,
+    "Paris_so2_annual_Tg": 0.006695472,
+    "London_std_annual": 0.0116819537,
+    "Paris_std_annual": 0.0019931935
+  },
+  {
+    "year": 1818,
+    "London_so2_annual_Tg": 0.0482497172,
+    "Paris_so2_annual_Tg": 0.0066070591,
+    "London_std_annual": 0.0117541686,
+    "Paris_std_annual": 0.0019759799
+  },
+  {
+    "year": 1819,
+    "London_so2_annual_Tg": 0.0486863868,
+    "Paris_so2_annual_Tg": 0.0067274517,
+    "London_std_annual": 0.0118753039,
+    "Paris_std_annual": 0.0020093504
+  },
+  {
+    "year": 1820,
+    "London_so2_annual_Tg": 0.049029058,
+    "Paris_so2_annual_Tg": 0.0069256261,
+    "London_std_annual": 0.0119653945,
+    "Paris_std_annual": 0.0020616462
+  },
+  {
+    "year": 1821,
+    "London_so2_annual_Tg": 0.0495413228,
+    "Paris_so2_annual_Tg": 0.0070071324,
+    "London_std_annual": 0.01209028,
+    "Paris_std_annual": 0.002085036
+  },
+  {
+    "year": 1822,
+    "London_so2_annual_Tg": 0.0514487412,
+    "Paris_so2_annual_Tg": 0.0071108593,
+    "London_std_annual": 0.0125543166,
+    "Paris_std_annual": 0.0021138898
+  },
+  {
+    "year": 1823,
+    "London_so2_annual_Tg": 0.0539777231,
+    "Paris_so2_annual_Tg": 0.007142114,
+    "London_std_annual": 0.0131810651,
+    "Paris_std_annual": 0.0021251639
+  },
+  {
+    "year": 1824,
+    "London_so2_annual_Tg": 0.0564316831,
+    "Paris_so2_annual_Tg": 0.0073350252,
+    "London_std_annual": 0.0137797903,
+    "Paris_std_annual": 0.0021760204
+  },
+  {
+    "year": 1825,
+    "London_so2_annual_Tg": 0.057044091,
+    "Paris_so2_annual_Tg": 0.0075713851,
+    "London_std_annual": 0.0139263506,
+    "Paris_std_annual": 0.0022377396
+  },
+  {
+    "year": 1826,
+    "London_so2_annual_Tg": 0.057779903,
+    "Paris_so2_annual_Tg": 0.0076660811,
+    "London_std_annual": 0.0140954527,
+    "Paris_std_annual": 0.0022650632
+  },
+  {
+    "year": 1827,
+    "London_so2_annual_Tg": 0.0602577062,
+    "Paris_so2_annual_Tg": 0.008547194,
+    "London_std_annual": 0.0146835634,
+    "Paris_std_annual": 0.0024856063
+  },
+  {
+    "year": 1828,
+    "London_so2_annual_Tg": 0.0606875003,
+    "Paris_so2_annual_Tg": 0.0087390936,
+    "London_std_annual": 0.0147887492,
+    "Paris_std_annual": 0.0025376193
+  },
+  {
+    "year": 1829,
+    "London_so2_annual_Tg": 0.0615701439,
+    "Paris_so2_annual_Tg": 0.0086986646,
+    "London_std_annual": 0.015004087,
+    "Paris_std_annual": 0.0025328411
+  },
+  {
+    "year": 1830,
+    "London_so2_annual_Tg": 0.0778081768,
+    "Paris_so2_annual_Tg": 0.0089605697,
+    "London_std_annual": 0.0189439714,
+    "Paris_std_annual": 0.002602874
+  },
+  {
+    "year": 1831,
+    "London_so2_annual_Tg": 0.0757084201,
+    "Paris_so2_annual_Tg": 0.0087847558,
+    "London_std_annual": 0.018430269,
+    "Paris_std_annual": 0.0025652452
+  },
+  {
+    "year": 1832,
+    "London_so2_annual_Tg": 0.0756312799,
+    "Paris_so2_annual_Tg": 0.0091361942,
+    "London_std_annual": 0.0184211656,
+    "Paris_std_annual": 0.0026580489
+  },
+  {
+    "year": 1833,
+    "London_so2_annual_Tg": 0.0755845389,
+    "Paris_so2_annual_Tg": 0.0094615152,
+    "London_std_annual": 0.0184269209,
+    "Paris_std_annual": 0.0027447191
+  },
+  {
+    "year": 1834,
+    "London_so2_annual_Tg": 0.0757678879,
+    "Paris_so2_annual_Tg": 0.0103077278,
+    "London_std_annual": 0.0184824166,
+    "Paris_std_annual": 0.0029608638
+  },
+  {
+    "year": 1835,
+    "London_so2_annual_Tg": 0.0756865551,
+    "Paris_so2_annual_Tg": 0.0105259575,
+    "London_std_annual": 0.0184648133,
+    "Paris_std_annual": 0.0030213069
+  },
+  {
+    "year": 1836,
+    "London_so2_annual_Tg": 0.0881741689,
+    "Paris_so2_annual_Tg": 0.0112339383,
+    "London_std_annual": 0.0215276688,
+    "Paris_std_annual": 0.003203517
+  },
+  {
+    "year": 1837,
+    "London_so2_annual_Tg": 0.085270388,
+    "Paris_so2_annual_Tg": 0.0116284436,
+    "London_std_annual": 0.020835037,
+    "Paris_std_annual": 0.0033074999
+  },
+  {
+    "year": 1838,
+    "London_so2_annual_Tg": 0.0877169473,
+    "Paris_so2_annual_Tg": 0.0119274165,
+    "London_std_annual": 0.0214352209,
+    "Paris_std_annual": 0.0033871777
+  },
+  {
+    "year": 1839,
+    "London_so2_annual_Tg": 0.0900965287,
+    "Paris_so2_annual_Tg": 0.0118383394,
+    "London_std_annual": 0.0220145878,
+    "Paris_std_annual": 0.0033691469
+  },
+  {
+    "year": 1840,
+    "London_so2_annual_Tg": 0.0936084592,
+    "Paris_so2_annual_Tg": 0.011993076,
+    "London_std_annual": 0.0228872063,
+    "Paris_std_annual": 0.003411119
+  },
+  {
+    "year": 1841,
+    "London_so2_annual_Tg": 0.0945618708,
+    "Paris_so2_annual_Tg": 0.0129939879,
+    "London_std_annual": 0.0231252294,
+    "Paris_std_annual": 0.0036640149
+  },
+  {
+    "year": 1842,
+    "London_so2_annual_Tg": 0.0985246595,
+    "Paris_so2_annual_Tg": 0.0133695233,
+    "London_std_annual": 0.0240888928,
+    "Paris_std_annual": 0.0037599195
+  },
+  {
+    "year": 1843,
+    "London_so2_annual_Tg": 0.1027757807,
+    "Paris_so2_annual_Tg": 0.013420155,
+    "London_std_annual": 0.0251117376,
+    "Paris_std_annual": 0.0037744198
+  },
+  {
+    "year": 1844,
+    "London_so2_annual_Tg": 0.1076878671,
+    "Paris_so2_annual_Tg": 0.0138003798,
+    "London_std_annual": 0.0262990767,
+    "Paris_std_annual": 0.003872176
+  },
+  {
+    "year": 1845,
+    "London_so2_annual_Tg": 0.1150783912,
+    "Paris_so2_annual_Tg": 0.0150726325,
+    "London_std_annual": 0.0280790444,
+    "Paris_std_annual": 0.0041952642
+  },
+  {
+    "year": 1846,
+    "London_so2_annual_Tg": 0.109853035,
+    "Paris_so2_annual_Tg": 0.0153293415,
+    "London_std_annual": 0.0268046888,
+    "Paris_std_annual": 0.0042653157
+  },
+  {
+    "year": 1847,
+    "London_so2_annual_Tg": 0.1182989694,
+    "Paris_so2_annual_Tg": 0.0163368357,
+    "London_std_annual": 0.0288479292,
+    "Paris_std_annual": 0.0045270041
+  },
+  {
+    "year": 1848,
+    "London_so2_annual_Tg": 0.1243222927,
+    "Paris_so2_annual_Tg": 0.0143769256,
+    "London_std_annual": 0.0303029569,
+    "Paris_std_annual": 0.0040435996
+  },
+  {
+    "year": 1849,
+    "London_so2_annual_Tg": 0.1313283676,
+    "Paris_so2_annual_Tg": 0.0146663216,
+    "London_std_annual": 0.0320044004,
+    "Paris_std_annual": 0.0041303313
+  },
+  {
+    "year": 1850,
+    "London_so2_annual_Tg": 0.1382838152,
+    "Paris_so2_annual_Tg": 0.0158128265,
+    "London_std_annual": 0.0336842805,
+    "Paris_std_annual": 0.0044208651
+  },
+  {
+    "year": 1851,
+    "London_so2_annual_Tg": 0.1312308679,
+    "Paris_so2_annual_Tg": 0.0160837799,
+    "London_std_annual": 0.0319589396,
+    "Paris_std_annual": 0.0045251519
+  },
+  {
+    "year": 1852,
+    "London_so2_annual_Tg": 0.1302670665,
+    "Paris_so2_annual_Tg": 0.0168745291,
+    "London_std_annual": 0.0317249711,
+    "Paris_std_annual": 0.0047675577
+  },
+  {
+    "year": 1853,
+    "London_so2_annual_Tg": 0.1290724923,
+    "Paris_so2_annual_Tg": 0.0187048248,
+    "London_std_annual": 0.0314371737,
+    "Paris_std_annual": 0.0052850346
+  },
+  {
+    "year": 1854,
+    "London_so2_annual_Tg": 0.1541207813,
+    "Paris_so2_annual_Tg": 0.0206179873,
+    "London_std_annual": 0.0375550734,
+    "Paris_std_annual": 0.0058334042
+  },
+  {
+    "year": 1855,
+    "London_so2_annual_Tg": 0.1440542818,
+    "Paris_so2_annual_Tg": 0.0226127235,
+    "London_std_annual": 0.0351044648,
+    "Paris_std_annual": 0.0064048269
+  },
+  {
+    "year": 1856,
+    "London_so2_annual_Tg": 0.15764936,
+    "Paris_so2_annual_Tg": 0.0236225744,
+    "London_std_annual": 0.0374935495,
+    "Paris_std_annual": 0.0066887346
+  },
+  {
+    "year": 1857,
+    "London_so2_annual_Tg": 0.1577089855,
+    "Paris_so2_annual_Tg": 0.0242157279,
+    "London_std_annual": 0.0366304359,
+    "Paris_std_annual": 0.0068632343
+  },
+  {
+    "year": 1858,
+    "London_so2_annual_Tg": 0.1573271622,
+    "Paris_so2_annual_Tg": 0.0241745363,
+    "London_std_annual": 0.0357163612,
+    "Paris_std_annual": 0.0068703654
+  },
+  {
+    "year": 1859,
+    "London_so2_annual_Tg": 0.1771260768,
+    "Paris_so2_annual_Tg": 0.0246328739,
+    "London_std_annual": 0.03932982,
+    "Paris_std_annual": 0.0070083693
+  },
+  {
+    "year": 1860,
+    "London_so2_annual_Tg": 0.2009956082,
+    "Paris_so2_annual_Tg": 0.0264093299,
+    "London_std_annual": 0.0436751186,
+    "Paris_std_annual": 0.0074908157
+  },
+  {
+    "year": 1861,
+    "London_so2_annual_Tg": 0.2103563097,
+    "Paris_so2_annual_Tg": 0.0282933231,
+    "London_std_annual": 0.0452429973,
+    "Paris_std_annual": 0.0079761315
+  },
+  {
+    "year": 1862,
+    "London_so2_annual_Tg": 0.2046681213,
+    "Paris_so2_annual_Tg": 0.0297919589,
+    "London_std_annual": 0.0435846303,
+    "Paris_std_annual": 0.0083562011
+  },
+  {
+    "year": 1863,
+    "London_so2_annual_Tg": 0.218452238,
+    "Paris_so2_annual_Tg": 0.0304972165,
+    "London_std_annual": 0.0460559975,
+    "Paris_std_annual": 0.0085271174
+  },
+  {
+    "year": 1864,
+    "London_so2_annual_Tg": 0.2357417905,
+    "Paris_so2_annual_Tg": 0.0321934556,
+    "London_std_annual": 0.0492229636,
+    "Paris_std_annual": 0.0089502098
+  },
+  {
+    "year": 1865,
+    "London_so2_annual_Tg": 0.2506179663,
+    "Paris_so2_annual_Tg": 0.0338169136,
+    "London_std_annual": 0.0518344976,
+    "Paris_std_annual": 0.0093504804
+  },
+  {
+    "year": 1866,
+    "London_so2_annual_Tg": 0.2607049916,
+    "Paris_so2_annual_Tg": 0.0360179513,
+    "London_std_annual": 0.0532363238,
+    "Paris_std_annual": 0.010014804
+  },
+  {
+    "year": 1867,
+    "London_so2_annual_Tg": 0.2701732849,
+    "Paris_so2_annual_Tg": 0.0364123592,
+    "London_std_annual": 0.0544926465,
+    "Paris_std_annual": 0.0102192158
+  },
+  {
+    "year": 1868,
+    "London_so2_annual_Tg": 0.2675280938,
+    "Paris_so2_annual_Tg": 0.0370649609,
+    "London_std_annual": 0.0533227855,
+    "Paris_std_annual": 0.0104931666
+  },
+  {
+    "year": 1869,
+    "London_so2_annual_Tg": 0.2830457244,
+    "Paris_so2_annual_Tg": 0.0378614356,
+    "London_std_annual": 0.0557596207,
+    "Paris_std_annual": 0.0108222324
+  },
+  {
+    "year": 1870,
+    "London_so2_annual_Tg": 0.2914739865,
+    "Paris_so2_annual_Tg": 0.0346041233,
+    "London_std_annual": 0.0567787872,
+    "Paris_std_annual": 0.0100165198
+  },
+  {
+    "year": 1871,
+    "London_so2_annual_Tg": 0.3086064227,
+    "Paris_so2_annual_Tg": 0.0347185403,
+    "London_std_annual": 0.059770175,
+    "Paris_std_annual": 0.0099805693
+  },
+  {
+    "year": 1872,
+    "London_so2_annual_Tg": 0.3249236921,
+    "Paris_so2_annual_Tg": 0.0405557004,
+    "London_std_annual": 0.0625816461,
+    "Paris_std_annual": 0.0115044729
+  },
+  {
+    "year": 1873,
+    "London_so2_annual_Tg": 0.337035636,
+    "Paris_so2_annual_Tg": 0.0437677751,
+    "London_std_annual": 0.0645594964,
+    "Paris_std_annual": 0.0122862995
+  },
+  {
+    "year": 1874,
+    "London_so2_annual_Tg": 0.3274868151,
+    "Paris_so2_annual_Tg": 0.0425139737,
+    "London_std_annual": 0.0624078645,
+    "Paris_std_annual": 0.0118986147
+  },
+  {
+    "year": 1875,
+    "London_so2_annual_Tg": 0.3454406852,
+    "Paris_so2_annual_Tg": 0.0443543004,
+    "London_std_annual": 0.065488676,
+    "Paris_std_annual": 0.0123296779
+  },
+  {
+    "year": 1876,
+    "London_so2_annual_Tg": 0.3422425497,
+    "Paris_so2_annual_Tg": 0.0444280444,
+    "London_std_annual": 0.0649460607,
+    "Paris_std_annual": 0.0124115219
+  },
+  {
+    "year": 1877,
+    "London_so2_annual_Tg": 0.3457081768,
+    "Paris_so2_annual_Tg": 0.0436852518,
+    "London_std_annual": 0.0656657643,
+    "Paris_std_annual": 0.0122767199
+  },
+  {
+    "year": 1878,
+    "London_so2_annual_Tg": 0.3370048605,
+    "Paris_so2_annual_Tg": 0.0444340139,
+    "London_std_annual": 0.0640864813,
+    "Paris_std_annual": 0.0125350389
+  },
+  {
+    "year": 1879,
+    "London_so2_annual_Tg": 0.3364588485,
+    "Paris_so2_annual_Tg": 0.0456997938,
+    "London_std_annual": 0.0640462269,
+    "Paris_std_annual": 0.0129316705
+  },
+  {
+    "year": 1880,
+    "London_so2_annual_Tg": 0.3636778023,
+    "Paris_so2_annual_Tg": 0.0504442121,
+    "London_std_annual": 0.0692951326,
+    "Paris_std_annual": 0.0142590921
+  },
+  {
+    "year": 1881,
+    "London_so2_annual_Tg": 0.3792387426,
+    "Paris_so2_annual_Tg": 0.0514190116,
+    "London_std_annual": 0.0723291314,
+    "Paris_std_annual": 0.0146388452
+  },
+  {
+    "year": 1882,
+    "London_so2_annual_Tg": 0.380538738,
+    "Paris_so2_annual_Tg": 0.0537409808,
+    "London_std_annual": 0.0726246101,
+    "Paris_std_annual": 0.0153903827
+  },
+  {
+    "year": 1883,
+    "London_so2_annual_Tg": 0.3930960695,
+    "Paris_so2_annual_Tg": 0.0558548299,
+    "London_std_annual": 0.0750940847,
+    "Paris_std_annual": 0.0161009782
+  },
+  {
+    "year": 1884,
+    "London_so2_annual_Tg": 0.380068737,
+    "Paris_so2_annual_Tg": 0.0540108663,
+    "London_std_annual": 0.072703208,
+    "Paris_std_annual": 0.015720032
+  },
+  {
+    "year": 1885,
+    "London_so2_annual_Tg": 0.3726572582,
+    "Paris_so2_annual_Tg": 0.0523127803,
+    "London_std_annual": 0.0713687776,
+    "Paris_std_annual": 0.0153677718
+  },
+  {
+    "year": 1886,
+    "London_so2_annual_Tg": 0.3673016136,
+    "Paris_so2_annual_Tg": 0.0522864425,
+    "London_std_annual": 0.0703470365,
+    "Paris_std_annual": 0.0153596193
+  },
+  {
+    "year": 1887,
+    "London_so2_annual_Tg": 0.3746537471,
+    "Paris_so2_annual_Tg": 0.0547970038,
+    "London_std_annual": 0.0717522431,
+    "Paris_std_annual": 0.0160719732
+  },
+  {
+    "year": 1888,
+    "London_so2_annual_Tg": 0.3876311174,
+    "Paris_so2_annual_Tg": 0.0570433295,
+    "London_std_annual": 0.0742193788,
+    "Paris_std_annual": 0.0166875824
+  },
+  {
+    "year": 1889,
+    "London_so2_annual_Tg": 0.3994104824,
+    "Paris_so2_annual_Tg": 0.0585319256,
+    "London_std_annual": 0.0764680573,
+    "Paris_std_annual": 0.0171107695
+  },
+  {
+    "year": 1890,
+    "London_so2_annual_Tg": 0.4064137214,
+    "Paris_so2_annual_Tg": 0.0638894346,
+    "London_std_annual": 0.0778194027,
+    "Paris_std_annual": 0.0186068702
+  },
+  {
+    "year": 1891,
+    "London_so2_annual_Tg": 0.4118481429,
+    "Paris_so2_annual_Tg": 0.0638321506,
+    "London_std_annual": 0.0790456011,
+    "Paris_std_annual": 0.0187459703
+  },
+  {
+    "year": 1892,
+    "London_so2_annual_Tg": 0.4004365439,
+    "Paris_so2_annual_Tg": 0.0637658029,
+    "London_std_annual": 0.0770499198,
+    "Paris_std_annual": 0.0188869675
+  },
+  {
+    "year": 1893,
+    "London_so2_annual_Tg": 0.3564700233,
+    "Paris_so2_annual_Tg": 0.0626605793,
+    "London_std_annual": 0.0687464162,
+    "Paris_std_annual": 0.0187290962
+  },
+  {
+    "year": 1894,
+    "London_so2_annual_Tg": 0.404622928,
+    "Paris_so2_annual_Tg": 0.0656589057,
+    "London_std_annual": 0.0782347195,
+    "Paris_std_annual": 0.019747532
+  },
+  {
+    "year": 1895,
+    "London_so2_annual_Tg": 0.4052990096,
+    "Paris_so2_annual_Tg": 0.0660596443,
+    "London_std_annual": 0.078563819,
+    "Paris_std_annual": 0.0200254921
+  },
+  {
+    "year": 1896,
+    "London_so2_annual_Tg": 0.4149148434,
+    "Paris_so2_annual_Tg": 0.0686138479,
+    "London_std_annual": 0.0804297399,
+    "Paris_std_annual": 0.0207411103
+  },
+  {
+    "year": 1897,
+    "London_so2_annual_Tg": 0.4240284303,
+    "Paris_so2_annual_Tg": 0.0718951151,
+    "London_std_annual": 0.0822092935,
+    "Paris_std_annual": 0.0216868215
+  },
+  {
+    "year": 1898,
+    "London_so2_annual_Tg": 0.4234533583,
+    "Paris_so2_annual_Tg": 0.0744483559,
+    "London_std_annual": 0.082080006,
+    "Paris_std_annual": 0.0224281108
+  },
+  {
+    "year": 1899,
+    "London_so2_annual_Tg": 0.4512096412,
+    "Paris_so2_annual_Tg": 0.0778836277,
+    "London_std_annual": 0.0874861258,
+    "Paris_std_annual": 0.023411704
+  }
+]
