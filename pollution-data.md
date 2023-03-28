@@ -8,7 +8,7 @@ Limitation: Completely ignores the impact from particular matters released by bu
 
 ## Historical coal data
 
-coal production, availability and consumption 1853 to 2021
+[Coal production, availability and consumption 1853 to 2021](https://www.gov.uk/government/statistical-data-sets/historical-coal-data-coal-production-availability-and-consumption)
 
 Strength: High confidence in the accuracy of the data (raw data)
 
@@ -16,7 +16,9 @@ Limitation: Low data density, only one data point every 10 years from 1853 to 19
 
 ## Hisorical energy consumption in the UK
 
-since most of the SO2 emmision (reasoned in the original paper as the primary source of visible atmospheric pollution) comes from burning coal, and 19th century energy production mostly exclusively comes from coal. W. S. Humphrey and J. Stanislaw, “Economic growth and energy consumption in the UK, 1700–1975”
+[Link (paper, need access)](https://reader.elsevier.com/reader/sd/pii/0301421579900491?token=4355EC5656C2467CA369C4868FACDA99B8E12FDB766315F29DF243FD10C4E17A3B62B26D08E54450506EA5893ABF357A&originRegion=us-east-1&originCreation=20230328035103)
+
+Since most of the SO2 emmision (reasoned in the original paper as the primary source of visible atmospheric pollution) comes from burning coal, and 19th century energy production mostly exclusively comes from coal. W. S. Humphrey and J. Stanislaw, “Economic growth and energy consumption in the UK, 1700–1975”
 
 Strength: Covers 1800-1900; covers all types of energy consumption, not just electricity, hence the practive of burning of coal from all industries.
 
