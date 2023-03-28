@@ -2,8 +2,6 @@
 
 ## TLDR
 
-First, go to [Replication Data for: Paintings by Turner and Monet Depict Trends in 19th Century Air Pollution - Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YQOLZW), select all files, download zip, and unzip the `dataverse_files` folder. Then, put the `dataverse_files` folder in the root directory of this repo.
-
 - All data (contrast, saturation, brightness, dominant_hue, category) for every single painting: `data/contrast.json`
 - SO2 levels, London & Paris: `data/so2.json`
 - Suspended Particulate Matter (SPM), London: `data/london-spm.csv`
@@ -33,3 +31,7 @@ First, go to [Replication Data for: Paintings by Turner and Monet Depict Trends 
 ## Examples
 
 See `plot.ipynb` for examples.
+
+## Get original dataset
+
+Go to [Replication Data for: Paintings by Turner and Monet Depict Trends in 19th Century Air Pollution - Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YQOLZW), select all files, download zip, and unzip the `dataverse_files` folder. Then, put the `dataverse_files` folder in the root directory of this repo.
